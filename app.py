@@ -3,7 +3,7 @@ import os
 import time
 import requests
 
-app = Flask(__name__)
+app = Flask(__shaan__)
 
 # Static variables for headers
 headers = {
